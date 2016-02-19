@@ -41,8 +41,4 @@
  <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-13.0" />
 <!-- END OF BACON -->
 
-<!-- START OF W200 -->
- <project name="SergioHG99/device_ThL_W200" path="device/ThL/W200" remote="github" revision="master" />
- <project name="SergioHG99/kernel_w200_kk_4.4.2_3.4.67_mt6589" path="kernel/w200/kk" remote="github" revision="master" />
-<!-- END OF W200 --> 
 </manifest>
