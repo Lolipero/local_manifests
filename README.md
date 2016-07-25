@@ -8,3 +8,8 @@ This is a local manifests for this smartphones:
 - Samsung Galaxy S2 (i9100)
 - Nexus 5 (hammerheadcaf)
 - OnePlus One (bacon)
+
+How to download
+
+        $ cd /root/android/system/.repo/
+        $ rm local_manifests/ -R & git clone https://github.com/lolipero/local_manifests -b W200
