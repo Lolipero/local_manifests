@@ -13,4 +13,4 @@ This is a local manifests for this smartphones:
 # How to download
 
         $ cd /root/android/system/.repo/
-        $ rm local_manifests/ -R & git clone https://github.com/lolipero/local_manifests -b W200
+        $ rm local_manifests/ -R & git clone https://github.com/lolipero/local_manifests -b master
