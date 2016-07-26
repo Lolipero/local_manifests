@@ -8,6 +8,7 @@ This is a local manifests for this smartphones:
 - Samsung Galaxy S2 (i9100)
 - Nexus 5 (hammerheadcaf)
 - OnePlus One (bacon)
+- Jiayu S3 Advanced (S3A)
 
 # How to download
 
