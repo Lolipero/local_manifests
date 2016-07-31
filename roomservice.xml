@@ -44,7 +44,7 @@
 <!-- START OF S3A -->
  <project name="MediatekAndroidDevelopers/android_device_jiayu_s3_h560" path="device" remote="github" revision="cm-13.0" />
  <project name="MediatekAndroidDevelopers/android_kernel_jiayu_s3_h560" path="kernel" remote="github" revision="android-6.0" />
- <project name="MediatekAndroidDevelopers/android_vendor_jiayu_s3_h560" path="vendor/jiayu/s3" remote="github" revision="cm13-0" />
+ <project name="MediatekAndroidDevelopers/android_vendor_jiayu_s3_h560" path="vendor/jiayu/s3" remote="github" revision="cm-13.0" />
 <!-- END OF S3A -->
 
 </manifest>
