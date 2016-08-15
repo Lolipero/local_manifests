@@ -47,4 +47,7 @@
   <project path="kernel/jiayu/h560"      name="MediatekAndroidDevelopers/android_kernel_jiayu_s3_h560"  revision="android-6.0"/>
 <!-- end s3 -->
 
+<!-- APPS -->
+  <project path="packages/apps/OTAUpdates" name="MatthewBooth/OTAUpdates" revision="aosp" />
+<!-- APPS -->
 </manifest>
