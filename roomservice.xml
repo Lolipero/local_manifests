@@ -48,6 +48,6 @@
 <!-- END OF JS3 -->
 
 <!-- START OF K1 TURBO -->
-  <project name="fire855/android_device_kingzone_k1_turbo" path="device/kingzone/k1" remote="github" revision="cm-13.0"
-  <project name="fire855/android_vendor_kingzone_k1_turbo" path="vendor/kingzone/k1" remote="github" revision="cm-13.0"
+  <project name="fire855/android_device_kingzone_k1_turbo" path="device/kingzone/k1" remote="github" revision="cm-13.0"/>
+  <project name="fire855/android_vendor_kingzone_k1_turbo" path="vendor/kingzone/k1" remote="github" revision="cm-13.0"/>
 </manifest>
