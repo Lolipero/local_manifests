@@ -53,7 +53,7 @@
 <!-- END OF K1 TURBO -->
 
 <!-- START OF W200 -->
- <project name="trujulu/android_device_thl_w200" path="device/ThL/W200" remote="github" revision="master" />
+ <project name="trujulu/android_device_thl_w200" path="device/ThL/W200" remote="github" revision="prebuilt-kernel" />
  <project name="trujulu/android_vendor_thl_w200" path="vendor/ThL/W200" remote="github" revision="master" />
 <!-- END OF W200 -->
 </manifest>
