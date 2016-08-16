@@ -42,12 +42,12 @@
 <!-- END OF BACON -->
 
 <!-- START OF JS3 -->
-  <project name="MediatekAndroidDevelopers/android_device_jiayu_s3_h560" path="device/jiayu/h560" remote="github" revision="cm-13.0"/>
-  <project name="MediatekAndroidDevelopers/android_vendor_jiayu_s3_h560" path="vendor/jiayu/h560" remote="github" revision="cm-13.0"/>
-  <project name="MediatekAndroidDevelopers/android_kernel_jiayu_s3_h560" path="kernel/jiayu/h560" remote="github" revision="android-6.0"/>
+  <project name="MediatekAndroidDevelopers/android_device_jiayu_s3_h560" path="device/jiayu/s3_h560" remote="github" revision="cm-13.0"/>
+  <project name="MediatekAndroidDevelopers/android_vendor_jiayu_s3_h560" path="vendor/jiayu/s3_h560" remote="github" revision="cm-13.0"/>
+  <project name="MediatekAndroidDevelopers/android_kernel_jiayu_s3_h560" path="kernel/jiayu/s3_h560" remote="github" revision="android-6.0"/>
 <!-- END OF JS3 -->
 
 <!-- START OF K1 TURBO -->
-  <project name="fire855/android_device_kingzone_k1_turbo" path="device/kingzone/k1" remote="github" revision="cm-13.0"/>
-  <project name="fire855/android_vendor_kingzone_k1_turbo" path="vendor/kingzone/k1" remote="github" revision="cm-13.0"/>
+  <project name="fire855/android_device_kingzone_k1_turbo" path="device/kingzone/k1_turbo" remote="github" revision="cm-13.0"/>
+  <project name="fire855/android_vendor_kingzone_k1_turbo" path="vendor/kingzone/k1_turbo" remote="github" revision="cm-13.0"/>
 </manifest>
