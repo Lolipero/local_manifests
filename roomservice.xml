@@ -44,6 +44,6 @@
 <!-- START OF JS3 -->
   <project name="trujulu/android_device_jiayu_s3_h560" path="device/jiayu/s3_h560" remote="github" revision="cm-13.0"/>
   <project name="trujulu/android_vendor_jiayu_s3_h560" path="vendor/jiayu/s3_h560" remote="github" revision="cm-13.0"/>
-  <project name="trujulu/android_kernel_jiayu_s3_h560" path="kernel/jiayu/s3_h560" remote="github" revision="android-6.0"/>
+  <project name="MediatekAndroidDevelopers/android_kernel_jiayu_s3_h560" path="kernel/jiayu/s3_h560" remote="github" revision="android-6.0"/>
 <!-- END OF JS3 -->
 </manifest>
