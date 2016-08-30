@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <!-- START OF JS3 -->
-  <project name="trujulu/android_device_h560" path="device/jiayu/s3_h560" remote="bitbucket" revision="master"/>
-  <project name="trujulu/android_vendor_h560" path="vendor/jiayu/s3_h560" remote="bitbucket" revision="master"/>
-  <project name="trujulu/android_kernel_h560" path="kernel/jiayu/s3_h560" remote="bitbucket" revision="master"/>
+  <project name="Trujulu/android_device_h560" path="device/jiayu/s3_h560" remote="bitbucket" revision="master"/>
+  <project name="Trujulu/android_vendor_h560" path="vendor/jiayu/s3_h560" remote="bitbucket" revision="master"/>
+  <project name="Trujulu/android_kernel_h560" path="kernel/jiayu/s3_h560" remote="bitbucket" revision="master"/>
 <!-- END OF JS3 -->
 
   <!-- <remove-project name="CyanogenMod/android_build" /> -->
