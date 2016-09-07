@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <!-- START OF JS3 -->
-  <project name="trujulu/android_device_h560" path="device/jiayu/s3_h560" remote="github" revision="cm-13.0"/>
-  <project name="trujulu/android_vendor_h560" path="vendor/jiayu/s3_h560" remote="github" revision="cm-13.0"/>
-  <project name="trujulu/android_kernel_h560" path="kernel/jiayu/s3_h560" remote="github" revision="cm-13.0"/>
+  <project name="trujulu/android_device_h560" path="device/jiayu/s3_h560" remote="github" revision="cm-12.1"/>
+  <project name="trujulu/android_vendor_h560" path="vendor/jiayu/s3_h560" remote="github" revision="cm-12.1"/>
+  <!--<project name="trujulu/android_kernel_h560" path="kernel/jiayu/s3_h560" remote="github" revision="cm-12.1"/>-->
 <!-- END OF JS3 -->
   
 <!-- OTA -->
