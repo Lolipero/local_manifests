@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<!-- START OF JS3 -->
-  <project name="LoliTeam/android_device_jiayu_s3_h560" path="device/jiayu/s3_h560" remote="github" revision="cm-13.0"/>
-  <project name="LoliTeam/android_vendor_jiayu_s3_h560" path="vendor/jiayu/s3_h560" remote="github" revision="cm-13.0"/>
-  <project name="LoliTeam/android_kernel_jiayu_s3_h560" path="kernel/jiayu/s3_h560" remote="github" revision="android-6.0"/>
-<!-- END OF JS3 -->
+<!-- START OF SM-G920F -->
+  <project name="CyanogenMod/android_device_samsung_zerofltexx" path="device/samsung/zerofltexx" remote="github" revision="cm-14.0"/>
+  <project name="TheMuppets/proprietary_vendor_samsung/" path="vendor/samsung" remote="github" revision="cm-14.0"/>
+  <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.0" />
+  <project name="CyanogenMod/android_kernel_samsung_exynos7420" path="kernel/samsung/zerofltexx" remote="github" revision="cm-14.0"/>
+  <project name="CyanogenMod/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.0" />
+<!-- END OF SM-G920F -->
 </manifest>
